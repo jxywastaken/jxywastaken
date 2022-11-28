@@ -1,7 +1,8 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1018386909195669574)](https://discord.com/users/1018386909195669574)
 
 <br>
-##I Know##
+## I Know
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -62,10 +63,6 @@
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
     </td>
 
   </tr>

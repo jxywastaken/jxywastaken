@@ -55,10 +55,6 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="bootstrap" />
       <br>Type Script
     </td>
-
-
-  </tr>
- <tr>
           <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
       <br>ASP.NET
@@ -71,7 +67,8 @@
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
       <br>JQuery
     </td>
- </tr>
+
+  </tr>
 </table>
 
 <br>

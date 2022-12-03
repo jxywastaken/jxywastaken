@@ -67,6 +67,10 @@
       <br>MySQL
     </td>
 
+                <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" width="48" height="48" alt="mysql" />
+      <br>Visual Basic
+    </td>
   </tr>
 </table>
 

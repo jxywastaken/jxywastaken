@@ -29,6 +29,10 @@
         <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" alt="icon" width="65" height="65" />
       <br>GoLang
     </td>
+        <td align="center" width="96">
+        <img src="    https://www.google.com/url?sa=i&url=http%3A%2F%2Flua-turkiye.blogspot.com%2F&psig=AOvVaw3C3Q7oZLZFSBssoR8fuBRF&ust=1673011466236000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiWkMPDsPwCFQAAAAAdAAAAABAT" alt="icon" width="65" height="65" />
+      <br>Lua
+    </td>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -51,6 +55,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" width="48" height="48" alt="mysql" />
       <br>Visual Basic
     </td>
+
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
@@ -59,6 +64,7 @@
   </tr>
 </table>
 
+## My Favorite Tools
 <br>
 <br>
 <table>
